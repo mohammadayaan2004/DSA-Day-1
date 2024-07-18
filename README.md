@@ -5,5 +5,5 @@ Today, I kicked off my DSA journey by exploring the fundamentals of C++. It's be
 Learning Objectives Achieved:<br/>
 •	Grasped the basic syntax and structure of C++<br/>
 •	Explored different types of operators and their usage<br/>
-•	Wrote and debugged simple programs<br/>
-#LearningJourney #C++ #DSA #Programming #Coding #Tech#100daysofcoding<br/>
+•	Wrote and debugged simple programs<br/><br/>
+#LearningJourney #C++ #DSA #Programming #Coding #Tech#100daysofcoding
